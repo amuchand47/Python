@@ -1,2 +1,2 @@
 # Python
-Basic Python
+This repository contains simple python problems
