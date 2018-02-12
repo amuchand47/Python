@@ -61,7 +61,7 @@ print(t)
 
 # Remove  Remove first item in the list
 
-m =[1, 2, 4, 4]
+m = [1, 2, 4, 4]
 m.remove(4)
 print(m)
 

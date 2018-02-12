@@ -31,4 +31,3 @@ del(a[0][1])        # But Inside tuple ,list can be deleted
 print(a)
 
 '''
-
